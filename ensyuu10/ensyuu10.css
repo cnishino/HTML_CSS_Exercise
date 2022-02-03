@@ -69,4 +69,23 @@ footer {
   header {
     width: 100%;
   }
+
+  main {
+    width: 100%;
+    display: block;
+  }
+
+  .step {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+  .step:last-child {
+    margin: 0 auto;
+  }
+
+  footer {
+    width: 100%;
+  }
 }
